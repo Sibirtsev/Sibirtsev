@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Alexey Sibirtsev.
+
+I'm a musician, runner, and introvert. I dream to build audio software with C++ and activly learn about audioprocessing and programming.
+
+Here is my LinkedIn profile, if you need to reach me: www.linkedin.com/in/alexeysibirtsev
+
 <!--
 **Sibirtsev/Sibirtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
